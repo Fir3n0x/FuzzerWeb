@@ -53,7 +53,7 @@ python fuzzer.py site.com wordlists/common.txt 30
 
 
 <p float="left">
-  <img src="img/vod.gif" alt="showcase" width="30%" />
+  <img src="img/vod.gif" alt="showcase" width="60%" />
 </p>
 
 
