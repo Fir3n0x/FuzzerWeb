@@ -51,6 +51,12 @@ Exemple:
 python fuzzer.py site.com wordlists/common.txt 30
 ```
 
+
+<p float="left">
+  <img src="img/vod.gif" alt="showcase" width="30%" />
+</p>
+
+
 ## Author
 
 **Corentin Mahieu** – [@Fir3n0x](https://github.com/Fir3n0x)
